@@ -2,9 +2,6 @@
 
 # 🛡️ Oscorp Cybersecurity Portfolio Project
 
-![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-blue)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
-
 Welcome to my cybersecurity portfolio project based on a simulated consulting assignment with **Oscorp**, a fictional organization specializing in bioengineering and scientific research. This project showcases how I approached solving various security challenges across multiple domains.
 
 ---
