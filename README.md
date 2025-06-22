@@ -1,4 +1,4 @@
-# Governance Risk and Compliance Project
+# Governance Risk and Compliance Project (using NIST CSF)
 
 # 🛡️ Oscorp Cybersecurity Portfolio Project
 
