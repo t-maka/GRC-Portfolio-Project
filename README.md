@@ -159,4 +159,7 @@ This project showcases practical applications of cybersecurity frameworks like C
 Feel free to connect with me via [LinkedIn](https://linkedin.com/in/makadjibeye-tinan) or drop me a message here on GitHub!
 
 ---
-
+## Revision History:
+| **Version** | **Changes**                   | **Date**         | **Modified By**   |
+|-------------|-------------------------------|------------------|-------------------|
+| 1.0         | Initial draft                  | `June 2025`    | `Tinan Makadjibeye`   |
