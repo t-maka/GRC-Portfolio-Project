@@ -1,7 +1,8 @@
-# Governance Risk and Compliance Project (using NIST CSF)
+# Governance Risk and Compliance Project 
 
-# 🛡️ Oscorp Cybersecurity Portfolio Project
+## 🛡️ Conducting an end-to-end Cybersecurity Maturity Assessment (using NIST CSF)
 
+**Scenario**:
 Welcome to my cybersecurity portfolio project based on a simulated consulting assignment with **Oscorp**, a fictional organization specializing in bioengineering and scientific research. This project showcases how I approached solving various security challenges across multiple domains.
 
 ---
@@ -32,6 +33,8 @@ Oscorp-Cybersecurity-Portfolio/
 
 ## 🔐 Cyber Security Risk Management – CIA Triad
 
+Here, we outlined the practical application of Cybersecurity Risk Management through the lens of the CIA Triad—Confidentiality, Integrity, and Availability. By asking targeted assessment questions, it helps identify potential vulnerabilities in how documents and data are accessed, modified, and stored. Followed up with recommendations.
+
 ### 🧠 Key Questions for Assessment
 - **Confidentiality**: Who should access the document? Are controls in place?
 - **Integrity**: Who can edit it? Are changes traceable?
@@ -46,6 +49,8 @@ Oscorp-Cybersecurity-Portfolio/
 
 ## 📋 Cyber Security Audit – Three Lines of Defense Model
 
+This section presents a structured approach to cybersecurity auditing using the Three Lines of Defense Model, a widely recognized framework for risk management and assurance. It defines clear roles and responsibilities across the three lines of defense model.
+
 ### 🧱 Proposed Audit Structure
 - **Line 1 – Control Owners**: Daily monitoring & incident detection.
 - **Line 2 – Independent Reviewers**: Validate controls and policy adherence.
@@ -54,6 +59,8 @@ Oscorp-Cybersecurity-Portfolio/
 ---
 
 ## 💼 Asset Management
+
+Effective Asset Management is a cornerstone of any robust cybersecurity program. Knowing what assets exist-hardware, software, data, and systems-is essential for assessing risk, ensuring compliance, and responding to incidents. 
 
 ### 🔧 Recommendations
 - Launch an asset inventory process.
@@ -64,6 +71,8 @@ Oscorp-Cybersecurity-Portfolio/
 ---
 
 ## 👤 Identity and Access Management (IAM)
+
+This section highlights key Identity and Access Management (IAM) issues, focusing on excessive access to sensitive data and administrative controls. Recommendations were made to reduce risk and strengthen security.
 
 ### 🔒 IAM Observations
 - Broad access to sensitive formula.
@@ -79,6 +88,8 @@ Oscorp-Cybersecurity-Portfolio/
 
 ## 📣 Security Education and Awareness
 
+Addressing the importance of a strong Security Education and Awareness program as a frontline defense against cyber threats is very important. 
+
 ### 📊 Program Evaluation
 - Training module is outdated (since 2013).
 
@@ -92,6 +103,8 @@ Oscorp-Cybersecurity-Portfolio/
 
 ## 🛡️ Data Security & DLP – Insider Threat Program
 
+Protecting sensitive information from within the organization is addressed through the development of a strong Insider Threat Program.
+
 ### 🚨 Components
 - Encrypt data (at rest & in transit).
 - Use DLP to prevent leaks.
@@ -100,6 +113,8 @@ Oscorp-Cybersecurity-Portfolio/
 ---
 
 ## ⚙️ Detection & Incident Response
+
+We highlighted key actions necessary for effective Detection and Incident Response.
 
 ### 🧪 Response Plan
 - Conduct baseline assessment.
@@ -111,6 +126,8 @@ Oscorp-Cybersecurity-Portfolio/
 ---
 
 ## 🤝 Third-Party Risk Management (TPRM)
+
+Effective management of third-party risks is critical to safeguarding your organization from external threats.
 
 ### 🔍 Key Risks
 - No cyber framework.
@@ -125,6 +142,8 @@ Oscorp-Cybersecurity-Portfolio/
 
 ## 🛠️ Vulnerability Management
 
+Proactively identifying and addressing security weaknesses is key to reducing risk. 
+
 ### ✅ Recommendations
 - Run regular scans and patching.
 - Remove unauthorized software.
@@ -133,6 +152,8 @@ Oscorp-Cybersecurity-Portfolio/
 ---
 
 ## 🧩 Capstone: Cybersecurity Program using NIST CSF
+
+Developing a robust cybersecurity program involves identifying gaps and implementing a clear, step-by-step roadmap. This section reviews major shortcomings and outlines a phased 3-year plan based on the NIST Cybersecurity Framework to improve security maturity.
 
 ### 🔍 Gaps Identified
 - No data governance or security policies.
